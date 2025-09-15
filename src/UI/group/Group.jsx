@@ -24,7 +24,7 @@ export default function Group() {
   ];
 
   return (
-    <section className="bg-[#111] text-white py-20">
+    <section className="bg-[#100e14] text-white py-20">
       <div className="container mx-auto px-6 text-center space-y-6">
 
         {/* Title */}

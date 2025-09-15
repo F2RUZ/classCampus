@@ -41,7 +41,7 @@ export default function Trusted() {
   }, []);
 
   return (
-    <section className="bg-[#0f0f13] text-white py-16 px-6 text-center">
+    <section className="bg-[#100e14] text-white py-16 px-6 text-center">
       {/* Title */}
       <div data-aos="fade-up" className="mb-10">
         <h2 className="text-3xl md:text-4xl font-semibold mb-2">

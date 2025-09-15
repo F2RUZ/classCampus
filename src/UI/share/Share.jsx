@@ -11,7 +11,7 @@ export default function Shere() {
   ];
 
   return (
-    <section className="bg-[#0e0e10] text-white py-20">
+    <section className="bg-[#100e14] text-white py-20">
       <div className="container mx-auto px-6 lg:px-20 grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
 
         {/* Left: colorful card */}
